@@ -16,7 +16,21 @@ visualization to support better business decisions.
 <ul>
   <li><strong>Total Records:</strong> 3,900</li>
 </ul>
-
+<h2>📊 Dataset</h2>
+<ul>
+  <li><strong>Total Records:</strong> 3,900</li>
+  <li><strong>Fields Included:</strong></li>
+  <ul>
+    <li>customer_id, age, gender</li>
+    <li>item_purchased, category, purchase_amount</li>
+    <li>location, size, color, season</li>
+    <li>review_rating, subscription_status</li>
+    <li>shipping_type, discount_applied</li>
+    <li>previous_purchases, payment_method</li>
+    <li>frequency_of_purchases</li>
+    <li>Derived Fields: age_group, purchase_frequency_days</li>
+  </ul>
+</ul>
 <h2>🎯 Objectives</h2>
 <ul>
   <li>Segment customers based on demographics and behavior</li>
