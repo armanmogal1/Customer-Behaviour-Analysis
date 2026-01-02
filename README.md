@@ -27,12 +27,43 @@ visualization to support better business decisions.
   <li>Provide actionable insights for marketing and inventory strategies</li>
 </ul>
 
-<h2>🛠 Tools & Technologies</h2>
+<h2>💡 Key Insights</h2>
+
+<h3>📌 Customer Demographics</h3>
 <ul>
-  <li><strong>PostgreSQL:</strong> Database & SQL queries</li>
-  <li><strong>Power BI:</strong> Dashboard & visualizations</li>
-  <li><strong>Python (Jupyter Notebook):</strong> Data cleaning & EDA</li>
+  <li>Age Range: 18–70 (Avg: 44 years)</li>
+  <li>Gender: 68% Male, 32% Female</li>
+  <li>Subscriptions: 27% active subscribers</li>
 </ul>
+
+<h3>📌 Revenue Insights</h3>
+<ul>
+  <li>Average Purchase Value: $59.76</li>
+  <li>Purchase Range: $20 – $100</li>
+  <li>Top Category: Clothing (44.5% / 1,737 items)</li>
+</ul>
+
+<h3>📌 Customer Behavior</h3>
+<ul>
+  <li>Avg Purchase Frequency: 25.4 previous purchases</li>
+  <li>Avg Customer Rating: 3.75 / 5</li>
+  <li>Top Season: Spring (25.6% purchases)</li>
+</ul>
+
+<h3>📌 Product Performance</h3>
+<ul>
+  <li>Most Popular Item: Blouse (171 purchases)</li>
+  <li>Top Size: Medium (45%)</li>
+  <li>Most Popular Color: Olive (177 purchases)</li>
+</ul>
+
+<h3>📌 Payment & Shipping Preferences</h3>
+<ul>
+  <li>Top Payment Method: PayPal (17.4%)</li>
+  <li>Preferred Shipping: Free Shipping (17.3%)</li>
+  <li>Discount Usage: 57% purchased without discounts</li>
+</ul>
+
 
 <h2>⚙️ Project Workflow</h2>
 <ol>
@@ -85,40 +116,10 @@ visualization to support better business decisions.
   </li>
 </ol>
 
-<h2>💡 Key Insights</h2>
 
-<h3>📌 Customer Demographics</h3>
+<h2>🛠 Tools & Technologies</h2>
 <ul>
-  <li>Age Range: 18–70 (Avg: 44 years)</li>
-  <li>Gender: 68% Male, 32% Female</li>
-  <li>Subscriptions: 27% active subscribers</li>
+  <li><strong>PostgreSQL:</strong> Database & SQL queries</li>
+  <li><strong>Power BI:</strong> Dashboard & visualizations</li>
+  <li><strong>Python (Jupyter Notebook):</strong> Data cleaning & EDA</li>
 </ul>
-
-<h3>📌 Revenue Insights</h3>
-<ul>
-  <li>Average Purchase Value: $59.76</li>
-  <li>Purchase Range: $20 – $100</li>
-  <li>Top Category: Clothing (44.5% / 1,737 items)</li>
-</ul>
-
-<h3>📌 Customer Behavior</h3>
-<ul>
-  <li>Avg Purchase Frequency: 25.4 previous purchases</li>
-  <li>Avg Customer Rating: 3.75 / 5</li>
-  <li>Top Season: Spring (25.6% purchases)</li>
-</ul>
-
-<h3>📌 Product Performance</h3>
-<ul>
-  <li>Most Popular Item: Blouse (171 purchases)</li>
-  <li>Top Size: Medium (45%)</li>
-  <li>Most Popular Color: Olive (177 purchases)</li>
-</ul>
-
-<h3>📌 Payment & Shipping Preferences</h3>
-<ul>
-  <li>Top Payment Method: PayPal (17.4%)</li>
-  <li>Preferred Shipping: Free Shipping (17.3%)</li>
-  <li>Discount Usage: 57% purchased without discounts</li>
-</ul>
-
